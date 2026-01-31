@@ -4,6 +4,8 @@
 
 # Active Directory Deployment and Configuration
 
+This project demonstrates practical experience with **Windows Server 2022** and **Active Directory Domain Services**, covering full server deployment, administrator account configuration, role and feature setup, and promotion of a server to a Domain Controller with a new Active Directory forest and domain. It reflects real enterprise IT responsibilities, including secure credential management, domain configuration, and validation of user access within a network environment.
+
 ## Environments and Technologies Used
 
 - **Windows Server ISO (Installation Media)**
