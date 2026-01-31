@@ -157,3 +157,9 @@ Click **Install** on the **Prerequisites Check** page. The process may take seve
 Once the system restarts, log in using your domain account, e.g., *APSTUDIOS\Administrator*.
 
 ![Screenshot](https://github.com/alexandrpaul/ad-dac/blob/eac0e60437de11d8eed0c74f81faeb34bb5d7d6e/Screenshots/img19.png)
+
+
+
+<h2> Final Thoughts </h2>
+
+<p> Through this project, I gained hands-on experience deploying and configuring a Windows Server 2022 environment, setting up the system for enterprise operations. The process included assigning secure administrative credentials, updating system identifiers, and launching Server Manager to configure roles and features. Enabling Active Directory Domain Services, promoting the server to a domain controller, and creating a new forest allowed for practical application of directory services, network authentication, and domain management best practices. Logging in with domain credentials confirmed the successful integration of the server into a managed IT environment. Moving forward, these experiences provide a strong foundation for advanced Windows Server administration and enterprise infrastructure management. </p>
