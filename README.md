@@ -4,13 +4,27 @@
 
 # Active Directory Deployment and Configuration
 
+## Environments and Technologies Used
+
+- **Windows Server ISO (Installation Media)**
+- **Windows Server 2022**
+-  **Active Directory Domain Services (AD DS)**
+-  **Server Manager**
+-  **Active Directory Domain Controller environment**
+-  **Oracle VirtualBox**
 
 
+## Skills Demonstrated
+
+- Windows Server installation and initial configuration
+- Administrator account setup and secure password management
+- Active Directory Domain Services (AD DS) deployment
+- Promoting a server to a Domain Controller
+- Creating a new Active Directory forest and domain
+- Domain Controller configuration and validation of domain credentials
 
 
-
-
-
+## Tasks for this project
 
 ### 1. Install the Windows Server 2022
 This step sets up the server environment, preparing the system for configuration, management, and deployment of essential services.
