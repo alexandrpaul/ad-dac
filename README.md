@@ -132,7 +132,7 @@ Once the setup is complete, initiate **Promote this server to a domain controlle
 
 
 ### 13. Add a New Forest
-Configure a new forest in **Deployment Configuration** by specifying the root domain name (e.g., *apstudios.local*) and selecting **Next**.
+Configure a new forest in **Deployment Configuration** by specifying the root domain name (for this example, *apstudios.local*) and selecting **Next**.
 
 ![Screenshot](https://github.com/alexandrpaul/ad-dac/blob/eac0e60437de11d8eed0c74f81faeb34bb5d7d6e/Screenshots/img16.png)
 
@@ -154,7 +154,7 @@ Click **Install** on the **Prerequisites Check** page. The process may take seve
 
 
 ### 16. Log in with Domain Credentials
-Once the system restarts, log in using your domain account, e.g., *APSTUDIOS\Administrator*.
+Once the system restarts, log in using your domain account, for instance, *APSTUDIOS\Administrator*.
 
 ![Screenshot](https://github.com/alexandrpaul/ad-dac/blob/eac0e60437de11d8eed0c74f81faeb34bb5d7d6e/Screenshots/img19.png)
 
